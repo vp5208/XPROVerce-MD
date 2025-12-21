@@ -35,7 +35,7 @@
     "google-tts-api": "2.0.2",
     "https": "^1.0.0",
     "image-upscaler": "^0.0.7",
-    "jimp": "^0.22.12",
+    "jimp": "^0.16.13",
     "lyrics-search": "^1.0.0",
     "megajs": "^1.1.0",
     "moment": "2.30.1",
